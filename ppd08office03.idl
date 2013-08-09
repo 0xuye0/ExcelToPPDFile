@@ -1,0 +1,18 @@
+// ppd08office03.idl : ppd08office03 的 IDL 源
+//
+
+// 此文件将由 MIDL 工具处理以
+// 产生类型库(ppd08office03.tlb)和封送处理代码。
+
+import "oaidl.idl";
+import "ocidl.idl";
+
+[
+	uuid(D29F3789-9F7E-4344-88A1-4EF3201D2BC1),
+	version(1.0),
+	helpstring("ppd08office03 1.0 类型库")
+]
+library ppd08office03Lib
+{
+	importlib("stdole2.tlb");
+};

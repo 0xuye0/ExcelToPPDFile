@@ -1,0 +1,43 @@
+*PPD-Adobe: "4.3"
+*% Canon PostScript(R) Printer Description File
+*% Copyright 2006 Canon Inc
+*% All Rights Reserved.
+*% Permission is granted for redistribution of this file as
+*% long as this copyright notice is intact and the contents
+*% of the file is not altered in any way from its original form.
+*% End of Copyright statement for Canon iR C2880/C3380
+*% Copyright 2006 Canon Inc.  All rights reserved.
+*%
+*% Release version 2.10  2006/05/15
+*%
+*FormatVersion: "4.3"
+*FileVersion: "1.0"
+*LanguageEncoding: ISOLatin1
+*LanguageVersion: English
+*Manufacturer: "Canon"
+*PCFileName: "CNRC288E1.PPD"
+*Product: "(iR C2880/C3380)"
+*PSVersion: "(3010.103) 0"
+*ModelName: "Canon iR C2880/C3380"
+*ShortNickName: "Canon iR C2880/C3380"
+*NickName: "Canon iR C2880/C3380"
+*% @(#)FileName cnrc288e1.ppd 2.10 2006/05/15
+*% Last Edit Date: May 15, 2006
+*% The byte count of this file should be exactly 88009 or greater
+*% depending on the filesystem it resides in.
+*% end of PPD file for Canon iR C2880/C3380 Printer
+*% === Custom Paper and Constraints Begin ===
+
+*NonUIOrderDependency: 50 AnySetup *CustomPageSize
+*MaxMediaWidth: "908"
+*MaxMediaHeight: "1786"
+*CenterRegistered: True
+*HWMargins: 11.3386 11.3386 11.3386 11.3386
+*LeadingEdge Short: ""
+*DefaultLeadingEdge: Short
+*VariablePaperSize: True
+*ParamCustomPageSize Width: 1 points 280 908
+*ParamCustomPageSize Height: 2 points 396 1786
+*ParamCustomPageSize WidthOffset: 3 points 0 0
+*ParamCustomPageSize HeightOffset: 4 points 0 0
+*ParamCustomPageSize Orientation: 5 int 0 3

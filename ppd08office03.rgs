@@ -1,0 +1,11 @@
+HKCR
+{
+	NoRemove AppID
+	{
+		'%APPID%' = s 'ppd08office03'
+				'ppd08office03.EXE'
+				{
+			val AppID = s '%APPID%'
+		}
+	}
+}
